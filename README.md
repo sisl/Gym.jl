@@ -1,6 +1,6 @@
 # Gym
 
-[![Build Status](https://travis-ci.org/etotheipluspi/Gym.jl.svg?branch=master)](https://travis-ci.org/etotheipluspi/Gym.jl)
+[![Build Status](https://travis-ci.org/sisl/Gym.jl.svg?branch=master)](https://travis-ci.org/sisl/Gym.jl)
 
 Julia wrapper for [OpenAI Gym](https://gym.openai.com/).
 Similar to [this](https://github.com/tbreloff/OpenAIGym.jl) implementation, but using the [DeepRL](https://github.com/sisl/DeepRL.jl) interface to make it easy to interact with deep
